@@ -24,6 +24,7 @@ Components with functionality supporting this behaviour, should you like to use 
 Other useful VRChat world-creation tools that I will always recommend.
 - [World Creator Assistant](https://github.com/Varneon/WorldCreatorAssistant) (SDK & Package Management)
 - [CyanEmu](https://github.com/CyanLaser/CyanEmu) (Unity-Window Testing)
+- [VRWorld Toolkit](https://github.com/oneVR/VRWorldToolkit) (World Debugger)
 
 ### Setup
 Make sure you have already imported the VRChat Worlds SDK and UdonSharp into your project.
@@ -54,7 +55,7 @@ Basic examples for which you could use reactive sliding objects.
 3. DO NOT use a separate copy of this behaviour for every sliding object, it is meant to control multiple objects with a single behaviour.
 
 ## Credit & Support
-Please credit me as Pokeyi if you use my work. I would also love to see your creations that make use of it if you're inclined to share. This and [related projects](https://github.com/Pokeyi/pokeyi.github.io#my-projects) have involved many months of solid work and self-education as I strive for an opportunity to change careers and make a better life for myself. If you find value in my work, please consider supporting me, I appreciate it more than you can imagine!
+Please credit me as Pokeyi if you use my work. I would also love to see your creations that make use of it if you're inclined to share. This and [related projects](https://github.com/Pokeyi/pokeyi.github.io#my-projects) have involved many months of solid work and self-education as I strive for an opportunity to change careers and make a better life for myself. If you find value in my work, please consider supporting me, it would truly help a lot.
 
 [![Patreon](https://img.shields.io/badge/Patreon-Support-red?logo=patreon)](https://patreon.com/pokeyi)
 
