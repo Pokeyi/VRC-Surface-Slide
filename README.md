@@ -1,4 +1,4 @@
-# [💾](https://github.com/Pokeyi/VRC-Surface-Slide/blob/main/P_SurfaceSlide.cs) VRC-Surface-Slide <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Surface-Slide/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Surface-Slide/releases) -->
+# [💾](https://github.com/Pokeyi/VRC-Surface-Slide/blob/main/P_SurfaceSlide.cs) VRC-Surface-Slide [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Surface-Slide/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Surface-Slide/releases)
 Surface sliding object controller for VRChat.
 
 ![Surface Slide](P_SurfaceSlide.png)
